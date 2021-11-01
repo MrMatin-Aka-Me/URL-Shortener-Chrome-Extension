@@ -1,7 +1,7 @@
 {
     "name": "URL shortener",
     "description": "URL shortener",
-    "version": "0.1.0",
+    "version": "1.0",
     "manifest_version": 3,
     "icons": {
         "16": "/images/link-icon-16x16.png",
