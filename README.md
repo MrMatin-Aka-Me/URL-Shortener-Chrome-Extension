@@ -9,4 +9,4 @@ b) Alternatively, open this page by clicking on the Chrome menu, hovering over M
 3. Click the Load unpacked button and select the extension directory.</br>
 ![alt text](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/vOu7iPbaapkALed96rzN.png?auto=format&w=571) </br>
 There is the example of using the extension: </br>
-![alt text](https://github.com/MrMatin-Aka-Me/URL-Shortener-Chrome-Extension/blob/master/examples-images/1.jpg?raw=true)
+![alt text](https://github.com/MrMatin-Aka-Me/URL-Shortener-Chrome-Extension/blob/master/./examples-images/1.jpg?raw=true)
