@@ -1,0 +1,31 @@
+{
+    "name": "URL shortener",
+    "description": "URL shortener",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "/images/link-icon-16x16.png",
+        "32": "/images/link-icon-32x32.png",
+        "48": "/images/link-icon-48x48.png",
+        "128": "/images/link-icon-128x128.png"
+    },
+    "background": {
+        "service_worker": "./background.js"
+    },
+    "action": {
+        "default_popup": "./popup/popup.html",
+        "default_icon": {
+            "16": "/images/link-icon-16x16.png",
+            "32": "/images/link-icon-32x32.png",
+            "48": "/images/link-icon-48x48.png",
+            "128": "/images/link-icon-128x128.png"
+        }
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting",
+        "tabs",
+        "clipboardWrite"
+    ]
+}

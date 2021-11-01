@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 15px;
+    width: 600px;
+    overflow: hidden;
+    /* background: #21253f; */
+    background: rgb(236, 236, 236);
+    text-align: center;
+}
+
+#urlBox {
+    margin: 0 auto 20px auto;
+    box-shadow: 0px 1px 10px rgb(209, 208, 208);
+    border-radius: 10px;
+    padding: 10px 30px 30px;
+    background: #21253f;
+    text-align: center;
+}
+
+h1 {
+    font: bold 36px arial;
+    /* color: #505050; */
+    color: #fff;
+}
+
+.loader {
+    text-align: center;
+}
+
+.displayNone{
+    display: none;
+}
+
+.responseWrapper {
+    width: 90%;
+    margin: 0 auto 0 auto;
+    box-shadow: 0px 1px 10px rgb(209, 208, 208);
+    border-radius: 10px;
+    padding: 10px;
+    /* background: #fff; */
+    background: #21253f;
+    text-align: center; 
+}
+
+#shortUrlDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shortUrlText {
+    font-size: 20px;
+    color: #fff;
+}
+
+.errorMessage {
+    color: red;
+    margin-top: 10px;
+}
+
+.linkCopiedText {
+    background: rgb(255, 255, 255);
+    color: #21253f;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.copyBtn {
+    background: rgb(255, 255, 255);
+}
