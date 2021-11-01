@@ -7,6 +7,6 @@ a) Alternatively, open this page by clicking on the Extensions menu button and s
 b) Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions</br>
 2. Enable Developer Mode by clicking the toggle switch next to Developer mode.</br>
 3. Click the Load unpacked button and select the extension directory.</br>
-![alt text](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/vOu7iPbaapkALed96rzN.png?auto=format&w=571) </br>
-There is the example of using the extension: </br>
+![alt text](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/vOu7iPbaapkALed96rzN.png?auto=format&w=571) </br> </br>
+<h6>There is the example of using the extension:</h6> </br>
 ![alt text](https://github.com/MrMatin-Aka-Me/URL-Shortener-Chrome-Extension/blob/master/examples-images/1.png?raw=true)
