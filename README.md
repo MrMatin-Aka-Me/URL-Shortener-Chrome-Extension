@@ -1,5 +1,5 @@
 # URL-Shortener-Chrome-Extension
-URL Shortener Chrome extension allows you shorten your URL using </br>
+URL Shortener Chrome extension allows you shorten your URL. </br>
 This extension uses [shrtcode API](https://shrtco.de/docs/) </br>
 <h3>To install the extension just download zip, unpack it then:</h3> </br>
 1. Open the Extension Management page by navigating to chrome://extensions. </br>
